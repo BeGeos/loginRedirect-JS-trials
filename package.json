@@ -1,0 +1,22 @@
+{
+  "name": "loginredirect",
+  "version": "1.0.0",
+  "description": "test for redirecting after login",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "login",
+    "redirect",
+    "test",
+    "javascript"
+  ],
+  "author": "begeos",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
